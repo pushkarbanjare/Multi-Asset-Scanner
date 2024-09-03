@@ -1,7 +1,7 @@
 # Multi Asset Scanner
 Multi Asset Scanner is a web app which will be used in scanning of various assets like top Cryptocurrencies and Stocks of various indices on the basis of strength.
 
-### Demp pictures for various directories
+### Demo pictures for various directories
 1. **'/' - root directory:**
 ![root](https://github.com/user-attachments/assets/af24cd14-3d75-4694-93a1-781d4a37fef7)
 
